@@ -3,7 +3,7 @@
 ## Description
 
 Using Bootstrap I have recreated my portfolio site and also took the opportunity to imporve on its design.
-The folloA navigation bar
+The navigation bar
 
 A navigation menu at the top. Feel free to use Bootstrap's navbar or create your own.
 
