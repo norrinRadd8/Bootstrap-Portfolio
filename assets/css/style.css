@@ -40,7 +40,7 @@ html {
 }
 
 .jumbotron-fluid {
-    background-image: url(assets/images/me_in_light_aircraft_overlay.png);
+    background-image: url(bootstrap-portfolio/assets/images/me_in_light_aircraft_overlay.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
