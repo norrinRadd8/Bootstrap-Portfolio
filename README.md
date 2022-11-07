@@ -50,7 +50,7 @@ N/A
 
 The following image shows the web application's appearance and functionality:
 
-![The Hal Web Developer webpage includes a navigation bar, a header image, and cards with text and images.](/images/hal-web-dev-bootstrap.png)
+![The Hal Web Developer webpage includes a navigation bar, a header image, and cards with text and images.](../Bootstrap-Portfolio/assets/images/hal-web-dev-bootstrap.png)
  
 ## Credits
 
